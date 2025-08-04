@@ -1,10 +1,10 @@
-# Slide
+# Slide-Taiwind
 
 ## Sobre
 Projeto desenvolvido na retomada do segundo semestre do curso técnico do SENAI, cujo objetivo era transformar uma página previamente desenvolvida pelo professor Fernando Leonid utilizando o framework Tailwind CSS.
 
 
-(![alt text](image.png)
+(image.png)
 
 ## Tecnologias utilizadas
 - HTML
